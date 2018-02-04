@@ -1,0 +1,5 @@
+https://github.com/ChenglongChen/Kaggle_CrowdFlower
+http://madhukaudantha.blogspot.com/2015/05/nltk-tutorial03-n-gram.html
+http://blog.alejandronolla.com/2013/05/20/n-gram-based-text-categorization-categorizing-text-with-python/
+https://codereview.stackexchange.com/questions/124245/splitting-text-into-n-grams-and-analyzing-statistics-on-them
+https://snippets.aktagon.com/snippets/619-how-to-generate-n-grams-with-python-and-nltk
